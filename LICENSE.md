@@ -14,3 +14,7 @@ Xandru:
 Miguel Ángel: 
 David: 
 Fernando: 
+
+FAQ
+
+The minimum distance from the Earth to Mars is about 54.6 million kilometers. The farthest apart they can be is about 401 million km. The average distance is about 225 million km. - See more at: http://www.space.com/14729-spacekids-distance-earth-mars.html#sthash.tWJOsuRp.dpuf
