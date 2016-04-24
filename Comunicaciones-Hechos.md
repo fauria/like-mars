@@ -1,5 +1,5 @@
 
-PROBLEMAS COMUNICACIONES con COLONIAS EN MARTE: 
+** PROBLEMAS COMUNICACIONES con COLONIAS EN MARTE **: 
 
 * Latencia (3 a 22 minutos)
 * Comunicación half-duplex
@@ -25,12 +25,8 @@ PROBLEMAS COMUNICACIONES con COLONIAS EN MARTE:
           * Visibilidad: 8min/sol
           * Bitrate: ?
         
+  * FUTUROS (colonias establecidas en Marte):
+   * Previsiblemente existirá una constelación de satélites orbitando el planeta. Esto supondrá comunicación directa Tierra-Marte el 100% del tiempo.
+   * 
 
-- Relay:
-  - Actualmente: Ventanas temporales estrechas. Causas:
-    - Line of sight con el rover (único punto en tierra)
-  - Futuro: No habrán ventanas temporales:
-    - ¿Constelación satélites?
-    - No habrán las restricciones de potencia que existe actualmente en un rover
-    
     
