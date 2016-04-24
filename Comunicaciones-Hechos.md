@@ -27,6 +27,4 @@
         
   * FUTUROS (colonias establecidas en Marte):
    * Previsiblemente existirá una constelación de satélites orbitando el planeta. Esto supondrá comunicación directa Tierra-Marte el 100% del tiempo.
-   * 
-
-    
+   
